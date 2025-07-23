@@ -1,0 +1,2 @@
+Python==3.12.4
+dashscope==1.23.9
